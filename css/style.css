@@ -165,7 +165,7 @@ img {
 .hero-text {
     position: absolute;
     top: 800px;
-    left: 630px;   
+    left: 800px;   
     width: 600px;
     color: #000000;
     text-align: center;
@@ -185,7 +185,7 @@ img {
     width: 80px;
     height: 2px;
     margin: 28px auto;
-    margin-left: 250px;
+    margin-left: 260px;
     background-color: #222222;
 }
 
